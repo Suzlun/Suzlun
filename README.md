@@ -1,7 +1,6 @@
-エンジニア生まれ
-マネジメント育ち。
+<img src="https://github.com/Suzlun/Suzlun/blob/main/profile-3d-contrib/profile-season-animate.svg">
 
-
+エンジニア生まれ,マネジメント育ち
 <!--
 **Suzlun/Suzlun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
